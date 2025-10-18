@@ -1,0 +1,7 @@
+{
+  "name": "Cosmos",
+  "description": "An application to control Arduino UNO or ESP32 boards for motor control, featuring manual and voice command interfaces with a sleek black, white, and red theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
